@@ -1,0 +1,8 @@
+com\langfeiyes\rest\controller\userController.class
+com\langfeiyes\rest\App.class
+com\langfeiyes\rest\controller\userController$1.class
+com\langfeiyes\rest\domain\MyRequestBody.class
+com\langfeiyes\rest\controller\RequestMappingController.class
+com\langfeiyes\rest\domain\user.class
+com\langfeiyes\rest\util\JsonResult.class
+com\langfeiyes\rest\domain\recipe.class
